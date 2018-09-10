@@ -1,2 +1,1 @@
-# init_project
-Initiate python project
+Init Source Code for project
